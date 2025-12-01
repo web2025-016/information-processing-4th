@@ -1,0 +1,31 @@
+body{
+   background-color:#d8ffd6;
+   }
+h1{
+            text-align: center;
+            color: #48D1CC
+        }          
+        h2{
+            text-align: center;
+            color: #B0E0E6
+        }
+#td1{
+            color: green;
+        }
+        #td2{
+            color: burlywood;
+        }
+        #th1{
+            color: red;
+        }
+        #th2{
+            color: blue
+        }
+
+p.note {
+    border: thin gray solid;
+    margin: 1.5em 3em;
+    padding: 0.5em;
+    background-color: #FFFF99; 
+    font-size: 12pt;
+}
