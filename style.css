@@ -20,7 +20,7 @@ h1{
             text-align: center;
             color: #48D1CC
            font-size: 28px;
-           border-bottom: 3px solid #1a5490;
+           border-bottom: 3px solid #RED;
            padding-bottom: 10px;
            margin-bottom: 30px;
 } 
@@ -69,6 +69,15 @@ table th {
 }
 table td {
   /
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+table tr:hover {
+  background-color: #f0f7ff;
+}
+
+table td {
   padding: 12px;
   border-bottom: 1px solid #ddd;
 }
